@@ -1,7 +1,6 @@
-<img src="https://media.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy-downsized-large.gif" align="right" width="400" height="250">
+<img src="https://giphy.com/embed/uurtMtTKqkJda4dk8Y" align="right" width="400" height="250">
 
 
-<h1 align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=384DF7&width=435&lines=Hello!;I'm+Ali+%C3%96zer" alt="Typing SVG" /></a>
 </h1>
 
