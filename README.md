@@ -24,11 +24,4 @@
     </a>
     
     
-    <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-celal&show_icons=true&locale=en&layout=compact&theme=dracula" alt="k-celal" height="195"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-celal&show_icons=true&locale=en&theme=dracula" alt="k-celal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-celal&&theme=dracula" alt="k-celal" /></p>
-  
   
