@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ali Özer</h1>
 <h3 align="center">A passionate frontend Software Engineer from Turkey</h3>
 
-<img align=“center” alt=“coding” width=“400” src=“https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300”>
+<img align=“center” alt=“coding” width=“400” src=“![giphy](https://user-images.githubusercontent.com/92879108/229887844-3a547324-18e0-4578-ac69-c6384b97a8e3.gif)
+”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliozer0&label=Profile%20views&color=0e75b6&style=flat" alt="aliozer0" /> </p>
 
