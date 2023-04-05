@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ali Özer</h1>
 <h3 align="center">A passionate frontend Software Engineer from Turkey</h3>
 
-  <img align="right" src="https://user-images.githubusercontent.com/92879108/229898778-1ba3b7bc-e496-4511-b394-6f7f32901368.png" width="375" height ="300">
+  <img align="right" src="https://user-images.githubusercontent.com/92879108/230152548-f3f6b1db-679e-4633-b0e4-725475a92f5c.gif" width="375" height ="300">
+
 
 
 - 📫 How to reach me **ozerrali@outlook.com**
