@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Özer</h1>
 <h3 align="center">A Passionate Mobile Developer Specializing in Flutter</h3>
+
 <p align="center">
   I am a dedicated mobile developer with a keen interest in creating seamless and responsive applications using Flutter. With a strong foundation in software engineering and a passion for coding, I strive to build applications that provide exceptional user experiences.
 </p>
@@ -39,26 +40,15 @@
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozerali00&show_icons=true&locale=en" alt="ozerali00" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliozer0&show_icons=true&locale=en" alt="aliozer0" />
 </p>
 
-<h3 align="center">Top Languages:</h3>
+<h3 align="center">Top Languages and Streak Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ozerali00&show_icons=true&locale=en&layout=compact" alt="ozerali00" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliozer0&show_icons=true&locale=en&layout=compact" alt="aliozer0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliozer0" alt="aliozer0" />
 </p>
 
-<h3 align="center">Streak Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozerali00" alt="ozerali00" />
-</p>
-
-### 📈 GitHub Activity Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ozerali00&theme=minimal" alt="GitHub Activity Graph" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ozerali00&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aliozer0&row=1&column=7" alt="GitHub Trophies" />
 </p>
