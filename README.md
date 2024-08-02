@@ -41,8 +41,8 @@
 
 <h3 align="center">Top Languages and Streak Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliozer0&show_icons=true&locale=en&layout=compact" alt="aliozer0" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliozer0" alt="aliozer0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliozer0&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliozer0" alt="Streak Stats" height="160" />
 </p>
 
 <p align="center">
