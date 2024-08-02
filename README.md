@@ -38,10 +38,6 @@
   </a>
 </p>
 
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliozer0&show_icons=true&locale=en" alt="aliozer0" />
-</p>
 
 <h3 align="center">Top Languages and Streak Stats:</h3>
 <p align="center">
