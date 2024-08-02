@@ -40,11 +40,11 @@
 
 
 <h3 align="center">Top Languages and Streak Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliozer0&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliozer0" alt="Streak Stats" height="160" />
+<p align="center" style="width: 600px; display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliozer0&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="160" style="flex: 1;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliozer0" alt="Streak Stats"  height="160" style="flex: 1;"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aliozer0&row=1&column=7" alt="GitHub Trophies" />
+<p align="center" style="width: 600px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=aliozer0&row=1&column=7" alt="GitHub Trophies" style="width: 100%;"/>
 </p>
